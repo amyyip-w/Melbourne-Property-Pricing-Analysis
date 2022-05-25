@@ -5,12 +5,12 @@ This is a case study to help better understand the Melbourne property market and
 ## Folders Upload Descriptions
 * Project Information document contains information about the data source, cleaning procedures executed, data profile, and initial questions to explore within the analysis.
 
-* Scripts folder contains python scripts on data cleaning, exploratory visual analysis, linear regression analysis, k-means cluster analysis, time-series analysis.
+* Scripts folder contains python scripts on data cleaning, exploratory visual analysis, linear regression analysis, k-means cluster analysis, and time-series analysis.
 
 * Sent to client folder contains the final deliverable presented in Tableau Storyboard detailing the analysis, results, and next steps.
 
 ## Data Sets
-Following open source data sets from Instacart was used to carry out this project:
+Following open source data sets were used to carry out this project:
 * Melbourne House Prices - It contains data including the sold date, property location, property type, sold price, distance from CBD, property size, number of bedrooms, bathrooms, and car spaces.
 * Melbourne.geojson - It contains the Melbourne Suburbs GPS coordinates.
 
